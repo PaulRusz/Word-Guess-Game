@@ -39,6 +39,8 @@ function getWins() {
   // If stored value doesn't exist, set winCounter to 0
   // else If a value is retrieved from client storage set the winCounter to that value
   // Render win count to page
+
+  
 }
 
 function getLosses() {
@@ -46,6 +48,8 @@ function getLosses() {
   // If stored value doesn't exist, set loseCounter to 0
   // else If a value is retrieved from client storage set the loseCounter to that value
   // Render loss count to page
+
+
 }
 
 // The startGame function is called when the start button is clicked
